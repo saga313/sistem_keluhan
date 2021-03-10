@@ -40,7 +40,7 @@
                 <input type="submit" class="btn btn-block btn-custom-green" value="LOGIN" />
                 
                 <div class="text-center forget">
-                    <p>PT. Pandu Anugrah Analitika</p>
+                    <p>Mozaik Furniture</p>
                 </div>
             </form>
         </div>

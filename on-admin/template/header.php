@@ -35,7 +35,7 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="css/dataTables.bootstrap.css">
+  <link rel="stylesheet" href="assets/css/dataTables.bootstrap.css">
   <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
   <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
   <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -107,8 +107,8 @@
                 <img src="assets/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Admin - PT. Pandu Anugerah Analitika
-                  <small>Member since Nov. 2018</small>
+                  Admin - PT. Mora Telematika Indonesia
+                  <small>Member since Apr. 2021</small>
                 </p>
               </li>
               <!-- Menu Footer-->
@@ -123,9 +123,7 @@
             </ul>
           </li>
           <!-- Control Sidebar Toggle Button -->
-          <li>
-            <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
-          </li>
+          
         </ul>
       </div>
 

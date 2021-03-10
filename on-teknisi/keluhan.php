@@ -1,7 +1,6 @@
 <?php include "../config.php"; ?>
 <?php include "template/header.php" ?>
 <?php include "template/sidebar.php" ?>
-<?php include('tambah_modalkeluhan.php'); ?>
     <body>
       <!-- Content Wrapper. Contains page content -->
       <div class="content-wrapper">
@@ -18,7 +17,7 @@
         </section>
     <!-- Main content -->
         <section class="content">
-          <!-- Small boxes (Stat box) -->
+          <!-- Small boxes (Stat box) -->  
     <div class="box">
             <div class="box-header">
               <h3 class="box-title">Data Keluhan</h3>

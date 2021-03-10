@@ -19,7 +19,7 @@
             
             <li>
               <a href="pelanggan.php">
-                <i class="fa fa-user"></i> <span>Data Pelangga</span>  
+                <i class="fa fa-user"></i> <span>Data Pelanggan</span>  
               </a>
             </li>
            
