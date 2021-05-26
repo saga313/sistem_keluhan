@@ -13,7 +13,7 @@
             <li class="header">MAIN NAVIGATION</li>
             <li class="active">
                 <a href="<?php $_SERVER[SCRIPT_NAME];?>index.php">  
-                 <i class="fa fa-home"></i> <span></span>
+                 <i class="fa fa-home"></i> <span>Dashboard</span>
               </a>
             </li>
             

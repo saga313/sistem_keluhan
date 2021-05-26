@@ -40,7 +40,7 @@
                 <input type="submit" class="btn btn-block btn-custom-green" value="LOGIN" />
                 
                 <div class="text-center forget">
-                    <p>Mozaik Furniture</p>
+                    <p>PT. Mora telematika Indonesia</p>
                 </div>
             </form>
         </div>

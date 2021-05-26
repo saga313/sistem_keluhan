@@ -9,8 +9,6 @@
   </footer>
 <!-- ./wrapper -->
 
-<!-- jQuery 3 -->
-<!--<script src="assets/js/jquery.min.js"></script>-->
 <!-- Bootstrap 3.3.7 -->
 <script src="assets/js/bootstrap.min.js"></script>
 <!-- FastClick -->
@@ -33,8 +31,8 @@
     output.src = URL.createObjectURL(event.target.files[0]);
   };
 </script>
-    <script src="assets/plugins/datatables/jquery.dataTables.min.js"></script>
-    <script src="assets/plugins/datatables/dataTables.bootstrap.min.js"></script>
+    <!-- <script src="assets/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="assets/plugins/datatables/dataTables.bootstrap.min.js"></script> -->
     <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
     <!-- <script src="assets/dist/js/pages/dashboard.js"></script> -->
     <!-- AdminLTE for demo purposes -->

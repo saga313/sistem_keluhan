@@ -35,12 +35,12 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="assets/css/dataTables.bootstrap.css">
   <!--Jika Tidak di download File Bootstrapnya silahkan gunakan link berikut-->
-  <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
-  <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-  <script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+  <link rel="stylesheet" href="assets/css/dataTables.bootstrap.css">
+  <!-- jQuery -->
+  <script type="text/javascript" src="assets/js/jquery-1.11.1.min.js"> </script>
+  <script type="text/javascript" src="assets/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="assets/js/dataTables.bootstrap.js"></script>
   <!--End Link yang langsung ke website nya -->
 
   <!-- Google Font -->
